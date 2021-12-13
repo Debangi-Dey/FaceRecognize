@@ -1,0 +1,25 @@
+body {
+    background-image: url("character-happy-family-doodle-style_45130-25.jpg");
+}
+ .heading {
+     font-size: 30px;
+     width: 100%;
+     box-shadow: 5px 5px 10px aqua;
+ }
+
+ hr {
+     height: 2px;
+ }
+
+ .heading_div {
+     float: none;
+     background-color: cadetblue;
+     padding: 10px;
+     border-radius: 20px;
+     color: darkblue;
+     font-size: 20px;
+ }
+
+ .head_div {
+     font-size: 16px;
+ }
