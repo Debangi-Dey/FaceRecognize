@@ -5,6 +5,7 @@ body {
      font-size: 30px;
      width: 100%;
      box-shadow: 5px 5px 10px aqua;
+     margin: 0px;
  }
 
  hr {
@@ -22,4 +23,20 @@ body {
 
  .head_div {
      font-size: 16px;
+ }
+
+ .footer {
+     background-color: coral;
+     position: fixed;
+     bottom: 0px;
+     width: 100%;
+     text-align: center;
+     line-height:2;
+ }
+
+ canvas {
+     border: darkblue dotted;
+     box-shadow: darkcyan 6px 6px 6px;
+     border-radius: 5px;
+     margin-top: 95px;
  }
